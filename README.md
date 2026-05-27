@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  Bridging the gap between advanced research and scalable AI solutions. 
-  Specialized in Computer Vision, Speech Emotion Recognition, and Dialect-aware NLP.
+  Bridging the gap between advanced research and scalable AI solutions. Specialized in Computer Vision, Speech Emotion Recognition, and Dialect-aware NLP.
 </p>
 
 ---
