@@ -10,7 +10,7 @@
 ---
 
 ### 🎓 Academic Background
-**Jordan University of Science and Technology (JUST)**  
+**Fourth Year Student at Jordan University of Science and Technology (JUST)**  
 *B.Sc. in Artificial Intelligence*
 
 ### 🛠 Core Competencies
