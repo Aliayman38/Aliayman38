@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Building practical AI systems with a focus on Computer Vision, Speech Emotion Recognition, and Arabic Dialect NLP.
+  Building practical AI systems with a focus on Computer Vision, Speech AI, Arabic Dialect NLP, and LLM-based applications.
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ### 🛠 Core Competencies
 * **Deep Learning:** Model development, Transfer learning, and model optimization.
-* **Computer Vision:** Real-time object detection (YOLO & RT-DETR) and Image processing.
+* **Computer Vision:** Real-time object detection, multi-object tracking, and AI-powered vision analytics using YOLO, RT-DETR, and modern computer vision techniques.
 * **Natural Language Processing:** Experience in **Arabic NLP**, focusing on dialect-aware sentiment analysis and multi-task learning pipelines.
 * **Speech Technologies:** Research experience in **Speech Emotion Recognition (SER)**, focusing on Jordanian dialect audio processing.
 * **Agentic AI:** Building AI agents and multi-agent workflows using LangGraph, LlamaIndex, and Smollagents.
