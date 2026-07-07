@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Bridging the gap between advanced research and scalable AI solutions. Specialized in Computer Vision, Speech Emotion Recognition, and Dialect-aware NLP.
+  Building practical AI systems with a focus on Computer Vision, Speech Emotion Recognition, and Arabic Dialect NLP.
 </p>
 
 ---
@@ -14,13 +14,13 @@
 *B.Sc. in Artificial Intelligence*
 
 ### 🛠 Core Competencies
-* **Deep Learning:** Architecture design, Model optimization, and Transfer learning.
+* **Deep Learning:** Model development, Transfer learning, and model optimization.
 * **Computer Vision:** Real-time object detection (YOLO & RT-DETR) and Image processing.
-* **Natural Language Processing:** Expertise in **Arabic NLP**, focusing on dialect-aware sentiment analysis and multi-task learning pipelines.
-* **Speech Technologies:** Deep experience in **Speech Emotion Recognition (SER)**, specifically researching and processing Jordanian dialect audio features.
-* **Agentic AI & Orchestration:** Designing production-grade multi-agent architectures, autonomous state machines, and robust self-correction loops. Proficient in engineering scalable agent solutions across frameworks like **LangGraph**, **LlamaIndex**, and **Smollagents**.
-* **Deployment & Optimization:** Model quantization , LoRA & QLoRA fine-tuning, and building scalable inference APIs using **FastAPI** and **Flask**.
-* **Engineering:** Pipeline development, Data-driven research, and System integration.
+* **Natural Language Processing:** Experience in **Arabic NLP**, focusing on dialect-aware sentiment analysis and multi-task learning pipelines.
+* **Speech Technologies:** Research experience in **Speech Emotion Recognition (SER)**, focusing on Jordanian dialect audio processing.
+* **Agentic AI:** Building AI agents and multi-agent workflows using LangGraph, LlamaIndex, and Smollagents.
+* **Deployment & Optimization:** Model quantization, LoRA & QLoRA fine-tuning, and building inference APIs using **FastAPI** and **Flask**.
+* **Engineering:** ML pipeline development, experimentation, and system integration.
 
 ### 💻 Technical Stack
-`Python` · `PyTorch` · `Hugging Face` · `OpenCV` · `Agentic Frameworks` · `Git`
+`Python` · `PyTorch` · `Hugging Face` · `OpenCV`· `YOLO`· `RT-DETR` · `Agentic Frameworks` · `Docker`· `FastAPI`· `Git`
