@@ -13,6 +13,9 @@
 **Fourth Year Student at Jordan University of Science and Technology (JUST)**  
 *B.Sc. in Artificial Intelligence*
 
+### 📄 Research
+- **First Author** of an IEEE-accepted paper: *Speech Emotion Recognition for Jordanian Arabic Dialect*.
+
 ### 🛠 Core Competencies
 * **Deep Learning:** Model development, Transfer learning, and model optimization.
 * **Computer Vision:** Real-time object detection (YOLO & RT-DETR) and Image processing.
