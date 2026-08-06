@@ -20,7 +20,7 @@
 * **Deep Learning:** Model development, Transfer learning, and model optimization.
 * **Computer Vision:** Real-time object detection, multi-object tracking, and AI-powered vision analytics using YOLO, RT-DETR, and modern computer vision techniques.
 * **Natural Language Processing:** Experience in **Arabic NLP**, focusing on dialect-aware sentiment analysis and multi-task learning pipelines.
-* **Speech Technologies:** Research experience in **Speech Emotion Recognition (SER)**, focusing on Jordanian dialect audio processing.
+* **Speech Technologies:** Experience in Automatic Speech Recognition (ASR), Speech Emotion Recognition (SER), and Speaker Diarization, with a focus on Jordanian Arabic speech processing.
 * **Agentic AI:** Building AI agents and multi-agent workflows using LangGraph, LlamaIndex, and Smollagents.
 * **Deployment & Optimization:** Model quantization, LoRA & QLoRA fine-tuning, and building inference APIs using **FastAPI** and **Flask**.
 * **Engineering:** ML pipeline development, experimentation, and system integration.
