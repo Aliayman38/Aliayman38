@@ -15,6 +15,7 @@
 
 ### 📄 Research
 - **First Author** of an IEEE-accepted paper: *Speech Emotion Recognition for Jordanian Arabic Dialect*.
+- https://ieeexplore.ieee.org/abstract/document/11657840
 
 ### 🛠 Core Competencies
 * **Deep Learning:** Model development, Transfer learning, and model optimization.
